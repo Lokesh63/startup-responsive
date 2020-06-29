@@ -1,0 +1,1 @@
+#Hi this is the simple home page for startup company
